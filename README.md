@@ -1,0 +1,1 @@
+"# Python-qo-llanma" 
